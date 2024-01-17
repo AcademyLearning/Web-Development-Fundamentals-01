@@ -1,1 +1,1 @@
-# web-development-fundamentals
+# web development fundamentals
